@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ColorPicker",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"HTML5",
+		"jQuery",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeTmpl"
+	]
+}
